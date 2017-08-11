@@ -10,7 +10,7 @@
     <?php 
     require 'Model/inicia.php';
     $poo = new inicia();
-    echo $poo->hola();
+    echo $poo->hola();;
     ?>
 </body>
 </html>
